@@ -1,5 +1,13 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+div.nav-bar-main {
+	width: 100%;
+	
+}
 
-ul {
+.nav-bar-main ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -7,12 +15,11 @@ ul {
 	background: #000;
 }
 
-li {
+.nav-bar-main li {
 	float: right;
-
 }
 
-li a {
+.nav-bar-main a {
 	display: block;
 	color: #fff;
 	text-align: center;
